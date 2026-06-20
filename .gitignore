@@ -5,6 +5,9 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 
+# Obsidian Git local auth helper
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+
 # Temporary files
 *.tmp
 *.bak
