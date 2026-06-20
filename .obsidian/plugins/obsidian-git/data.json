@@ -1,0 +1,12 @@
+{
+  "autoSaveInterval": 10,
+  "autoPullInterval": 5,
+  "autoPullOnBoot": true,
+  "pullBeforePush": true,
+  "disablePush": false,
+  "autoCommitMessage": "vault: update {{date}}",
+  "commitMessage": "vault: update {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "showStatusBar": true,
+  "showBranchStatusBar": true
+}
