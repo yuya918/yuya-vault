@@ -88,6 +88,10 @@ Obsidian Git を使う場合:
 - Obsidian Gitで commit / pull / push する
 - GitHubをバックアップと履歴管理に使う
 
+運用メモ:
+
+- [Obsidian GitHub Sync Runbook](Presenza/5_Operations/Obsidian%20GitHub%20Sync%20Runbook.md)
+
 ## Ignore Policy
 
 以下はGitHubに載せません。
@@ -97,4 +101,3 @@ Obsidian Git を使う場合:
 - `.obsidian/workspace-mobile.json`
 - Obsidian Git のローカル認証補助ファイル
 - 一時ファイル
-
