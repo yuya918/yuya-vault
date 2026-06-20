@@ -63,6 +63,7 @@ Cities. Culture. People.
 
 ### Mongolia Short
 - Status：Completed / posting prep
+- Lessons Learned：[[Mongolia Short Lessons Learned]]
 - Focus：
   - 草原、都市、移動、生活の距離感
   - 自然と人間の関係
