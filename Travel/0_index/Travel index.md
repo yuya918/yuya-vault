@@ -49,6 +49,7 @@ Cities. Culture. People.
 ### Vietnam Short
 - Theme：優しい笑顔の正体
 - English Title：The gentle smile I saw in Vietnam
+- Lessons Learned：[[Vietnam Short Lessons Learned]]
 - Focus：
   - ベトナムで見た成長社会の空気
   - 人々の表情にある余裕と期待
