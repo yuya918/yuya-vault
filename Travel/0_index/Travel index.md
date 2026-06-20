@@ -69,6 +69,13 @@ Cities. Culture. People.
   - 自然と人間の関係
   - 日本とは違う時間感覚
 
+### Saudi Arabia Short
+- Lessons Learned：[[Saudi Arabia Learning]]
+- Focus：
+  - 砂漠と石油という初期イメージから、巡礼が作る都市経済へ認識をずらす
+  - 宗教、人流、ホテル、商業、資本のつながりを見る
+  - 旅情報ではなく、認識変化型ショートとして設計する
+
 ### India / Maldives
 - Status：素材整理候補
 - Focus：
