@@ -1,0 +1,10 @@
+.DS_Store
+.trash/
+
+# Obsidian local workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Temporary files
+*.tmp
+*.bak
