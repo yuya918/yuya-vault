@@ -76,6 +76,13 @@ Cities. Culture. People.
   - 宗教、人流、ホテル、商業、資本のつながりを見る
   - 旅情報ではなく、認識変化型ショートとして設計する
 
+### Singapore Short
+- Lessons Learned：[[Singapore Learning]]
+- Focus：
+  - 未来都市ではなく、国家意思によって設計された国家システムとして見る
+  - 港湾、金融、航空、観光、外資を都市へ集約した構造を捉える
+  - 清潔感や安全性を文化ではなく、国家信用を生む経済インフラとして扱う
+
 ### India / Maldives
 - Status：素材整理候補
 - Focus：
@@ -83,7 +90,7 @@ Cities. Culture. People.
   - 信仰、混沌、海、静けさ
   - インドとモルディブの対比
 
-### Singapore / Sydney / Xiamen
+### Sydney / Xiamen
 - Status：過去素材候補
 - Focus：
   - 都市の設計
