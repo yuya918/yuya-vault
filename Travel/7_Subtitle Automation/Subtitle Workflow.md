@@ -3,6 +3,15 @@
 
 目的は、文字起こし・字幕整形・要確認箇所の洗い出しを効率化し、編集後半の負担を減らすこと。
 
+## Recommended Workflow
+録音元の台本があるナレーション動画では、台本テキストと単語レベルのタイムスタンプJSONを照合する方式を優先する。
+
+詳細手順：
+
+- [[Script Alignment Subtitle Workflow]]
+
+この方式では、表示テキストを台本から取り、タイムコードを音声解析JSONから取る。PremiereのSRTだけを整形する方法より、誤認識とタイムコードのズレを減らしやすい。
+
 ## Overall Flow
 編集を確定する。
 
@@ -231,6 +240,7 @@ Claude CodeのFableが6月22日まで課金済みで使える状態。
 
 ## Related Files
 - [[Travel Index]]
+- [[Script Alignment Subtitle Workflow]]
 - [[Short Video Strategy]]
 - [[Long Form Strategy]]
 - [[Storytelling Framework]]
@@ -238,4 +248,4 @@ Claude CodeのFableが6月22日まで課金済みで使える状態。
 - [[Editing Checklist]]
 
 ## Last Updated
-2026-06-12
+2026-06-21
