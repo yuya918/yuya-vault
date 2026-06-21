@@ -101,6 +101,17 @@ Cities. Culture. People.
   - 貧困や危険のイメージから、都市の裏側を支える人と経済への認識変化を描く
   - 貧困を消費せず、働き、作り、生きる人たちの力に焦点を当てる
 
+### New York Short
+- Script：[[Travel/1_Scripts/New York Short|New York Short Script]]
+- Title Ideas：[[New York Title Ideas]]
+- Production Log：[[Travel/3_Production Logs/New York Short|New York Short Production Log]]
+- Country Note：[[New York]]
+- Shorts Idea：[[New York Shorts Idea]]
+- Focus：
+  - 観光名所を点で巡る都市ではなく、人の流れそのものが経済になる都市として見る
+  - 歩く、止まる、買う、移動する行為が街の経済を動かす構造を描く
+  - 高層ビルや有名スポットではなく、人流が経済を生む都市設計に着地する
+
 ### India / Maldives
 - Status：素材整理候補
 - Focus：
