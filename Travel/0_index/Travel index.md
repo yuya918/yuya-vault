@@ -134,6 +134,12 @@ Cities. Culture. People.
   - 移動と清潔さ
   - アジア都市の成熟度比較
 
+## Rule Files
+- [[Travel Shorts Subtitle Editing Rule]]
+- [[Script Alignment Subtitle Workflow]]
+- [[Subtitle Workflow]]
+- [[Short Title Rules]]
+
 ## Script Rules
 - 日本語原稿を先に作る
 - 英語字幕は日本語の行ごとに合わせる
