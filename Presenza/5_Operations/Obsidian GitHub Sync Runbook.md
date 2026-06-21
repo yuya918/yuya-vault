@@ -47,6 +47,37 @@ git commit -m "vault: update"
 git push
 ```
 
+## Codex Operation
+
+CodexでVault用のノートを追加・編集する場合、Codex側でファイル編集とコミットまでは行う。
+
+ただし、Codexの作業用シェルは外部ネットワークに出られないことがあり、`git push` が `Could not resolve host: github.com` で失敗する場合がある。
+
+その場合は、Macのターミナルから短縮コマンド `ypush` を使ってpushする。
+
+### One-time Setup
+
+ターミナルで一度だけ実行する:
+
+```bash
+echo "alias ypush='cd /Users/maedayuuya/Documents/Codex/2026-06-20/vietnam-short-lessons-learned-core-insight/work/yuya-vault-push && git push origin main'" >> ~/.zshrc
+source ~/.zshrc
+```
+
+### Push Command
+
+Codexが「コミット完了、push待ち」と言ったら、ターミナルで以下を実行する:
+
+```bash
+ypush
+```
+
+正常にpushできたら、Codex側で確認したときに以下の状態になる:
+
+```text
+## main...origin/main
+```
+
 ## Safety Checks
 
 GitHubへpushできているか確認する:
@@ -74,4 +105,3 @@ yuya918/daily-travel
 ```
 
 今後は混乱を避けるため、Obsidianの本命Vaultとしては使わない。
-
