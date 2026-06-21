@@ -49,6 +49,7 @@ Cities. Culture. People.
 ### Vietnam Short
 - Theme：優しい笑顔の正体
 - English Title：The gentle smile I saw in Vietnam
+- Title Ideas：[[Vietnam Title Ideas]]
 - Lessons Learned：[[Vietnam Short Lessons Learned]]
 - Focus：
   - ベトナムで見た成長社会の空気
@@ -70,6 +71,11 @@ Cities. Culture. People.
   - 日本とは違う時間感覚
 
 ### Saudi Arabia Short
+- Script：[[Travel/1_Scripts/Saudi Arabia Short|Saudi Arabia Short Script]]
+- Title Ideas：[[Saudi Arabia Title Ideas]]
+- Production Log：[[Travel/3_Production Logs/Saudi Arabia Short|Saudi Arabia Short Production Log]]
+- Country Note：[[Saudi Arabia]]
+- Shorts Idea：[[Saudi Arabia Shorts Idea]]
 - Lessons Learned：[[Saudi Arabia Learning]]
 - Focus：
   - 砂漠と石油という初期イメージから、巡礼が作る都市経済へ認識をずらす
