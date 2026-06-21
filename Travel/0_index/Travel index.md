@@ -102,6 +102,7 @@ Cities. Culture. People.
 - Production Log：[[Travel/3_Production Logs/Dharavi Short|Dharavi Short Production Log]]
 - Country Note：[[Dharavi]]
 - Shorts Idea：[[Dharavi Shorts Idea]]
+- Lessons Learned：[[Dharavi Short Lessons Learned]]
 - Focus：
   - スラムという一語では説明できない、生活・労働・生産・再利用が密集する都市経済を見る
   - 貧困や危険のイメージから、都市の裏側を支える人と経済への認識変化を描く
@@ -113,6 +114,7 @@ Cities. Culture. People.
 - Production Log：[[Travel/3_Production Logs/New York Short|New York Short Production Log]]
 - Country Note：[[New York]]
 - Shorts Idea：[[New York Shorts Idea]]
+- Lessons Learned：[[New York Short Lessons Learned]]
 - Focus：
   - 観光名所を点で巡る都市ではなく、人の流れそのものが経済になる都市として見る
   - 歩く、止まる、買う、移動する行為が街の経済を動かす構造を描く
