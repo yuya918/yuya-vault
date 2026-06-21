@@ -90,6 +90,17 @@ Cities. Culture. People.
   - 山と川に重なる立体都市、ネオン、人の熱気、火鍋、洪崖洞から中国のむき出しの熱量を見る
   - 成功パターンをテンプレ化せず、その土地ごとのテーマで構成を作る
 
+### Dharavi Short
+- Script：[[Travel/1_Scripts/Dharavi Short|Dharavi Short Script]]
+- Title Ideas：[[Dharavi Title Ideas]]
+- Production Log：[[Travel/3_Production Logs/Dharavi Short|Dharavi Short Production Log]]
+- Country Note：[[Dharavi]]
+- Shorts Idea：[[Dharavi Shorts Idea]]
+- Focus：
+  - スラムという一語では説明できない、生活・労働・生産・再利用が密集する都市経済を見る
+  - 貧困や危険のイメージから、都市の裏側を支える人と経済への認識変化を描く
+  - 貧困を消費せず、働き、作り、生きる人たちの力に焦点を当てる
+
 ### India / Maldives
 - Status：素材整理候補
 - Focus：
