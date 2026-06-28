@@ -120,6 +120,18 @@ Cities. Culture. People.
   - 歩く、止まる、買う、移動する行為が街の経済を動かす構造を描く
   - 高層ビルや有名スポットではなく、人流が経済を生む都市設計に着地する
 
+### Guam Short
+- Script：[[Travel/1_Scripts/Guam Short|Guam Short Script]]
+- Title Ideas：[[Guam Title Ideas]]
+- Production Log：[[Travel/3_Production Logs/Guam Short|Guam Short Production Log]]
+- Country Note：[[Guam]]
+- Shorts Idea：[[Guam Shorts Idea]]
+- Lessons Learned：[[Guam Short Lessons Learned]]
+- Focus：
+  - 終わったリゾートではなく、昔の憧れと今の静けさ、これからの期待が残る島として見る
+  - 静かな街、古いホテル、人の少ない通りから違和感を作り、軍事拠点・島の人・景観整備で立体化する
+  - 批評で終わらせず、人が夢を見ていた場所に残る時代の空気へ着地する
+
 ### India / Maldives
 - Status：素材整理候補
 - Focus：
